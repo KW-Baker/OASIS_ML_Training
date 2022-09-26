@@ -1,1 +1,1 @@
-# OASIS ML Training
+# OASIS Machine Learning Training
